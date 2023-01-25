@@ -1,0 +1,40 @@
+{
+    "crushes": {
+        "cat": {
+            "email1": "alice@college.harvard.edu",
+            "email2": "bob@college.harvard.edu"
+        },
+        "bob": {
+            "email1": "bob@college.harvard.edu",
+            "email2": "cat@college.harvard.edu"
+        },
+        "lilly": {
+            "email1": "derek@college.harvard.edu",
+            "email2": "lilly@college.harvard.edu"
+        },
+        "alice": {
+            "email1": "derek@college.harvard.edu",
+            "email2": "sammy@college.harvard.edu"
+        },
+        "derek": {
+            "email1": "sammy@college.harvard.edu",
+            "email2": "zayn@college.harvard.edu"
+        },
+        "zayn": {
+            "email1": "zayn@college.harvard.edu",
+            "email2": "jamie@college.harvard.edu"
+        },
+        "aaa": {
+            "email1": "aaa@college.harvard.edu",
+            "email2": "bbb@college.harvard.edu"
+        },
+        "bbb": {
+            "email1": "bbb@college.harvard.edu",
+            "email2": "ccc@college.harvard.edu"
+        },
+        "ccc": {
+            "email1": "jamie@college.harvard.edu",
+            "email2": "ccc@college.harvard.edu"
+        }
+    }
+}
